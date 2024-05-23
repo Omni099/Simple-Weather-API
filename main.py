@@ -9,7 +9,7 @@ import tkinter as tk
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 
-API_KEY = "37c3aafcc8eba5444729fe2bc0c1fa88"
+API_KEY = ""
 CITY = "Sydney"
 
 def Kelvin_to_Celsius_Fahrenheit(kelvin):
